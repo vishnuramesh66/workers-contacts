@@ -1,0 +1,6 @@
+sqlalchemy
+uvicorn
+gunicorn
+fastapi
+sqlalchemy.orm
+pydantic
